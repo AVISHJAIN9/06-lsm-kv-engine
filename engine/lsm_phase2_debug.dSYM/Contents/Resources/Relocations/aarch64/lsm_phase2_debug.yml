@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     lsm_phase2_debug
+relocations:     []
+...

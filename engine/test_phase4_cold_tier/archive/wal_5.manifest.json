@@ -1,0 +1,11 @@
+{
+  "log_number": 5,
+  "original_bytes": 41898,
+  "compressed_bytes": 24502,
+  "crc32c": 761908287,
+  "min_lsn": 1000,
+  "max_lsn": 2024,
+  "timestamp": 1791224404,
+  "archive_file": "./test_phase4_cold_tier/archive/wal_000005.zst",
+  "algorithm": "LSM-ZPACK"
+}

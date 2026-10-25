@@ -1,0 +1,14 @@
+target/
+node_modules/
+.next/
+__pycache__/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+dist/
+build/
+
+.venv/

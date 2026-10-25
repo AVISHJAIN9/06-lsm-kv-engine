@@ -1,0 +1,11 @@
+{
+  "segment_id": 42,
+  "min_lsn": 1,
+  "max_lsn": 500,
+  "uncompressed_size": 45399,
+  "compressed_size": 43664,
+  "checksum_crc32c": 2976697090,
+  "sha256_digest": "34c1cc2ac2a7b4c786884db33c1f06e253559ca1f12f5ea75a90f4288a75f4df",
+  "archive_filename": "wal_42.arc",
+  "timestamp_utc": 1791223453
+}
