@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference or use this software in research or engineering projects, please cite it as below."
+authors:
+  - family-names: "Jain"
+    given-names: "Avish"
+    email: "avishjain412@gmail.com"
+title: "LSM-Tree Key-Value Engine"
+version: 0.1.0
+date-released: 2026-10-27
+url: "https://github.com/AVISHJAIN9/06-lsm-kv-engine"
